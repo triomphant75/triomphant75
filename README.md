@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Développeur+Full-Stack+🎯;Passionné+d'IA+et+Systèmes+d'Information+🤖;Étudiant+à+l'Université+de+Lorraine+🎓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Business+Analyst;Passionne+par+IA+et+SI" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -177,7 +177,7 @@ class Triomphant:
 ## 🚀 Objectifs & Vision
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=🎯+Maîtriser+Java+Maven;🤖+Explorer+l'IA+générative;☁️+DevOps+%26+Cloud+Computing;🌟+Contribuer+à+l'open+source" alt="Goals Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Maitriser+Java+Maven;Explorer+l'IA+generative;Devenir+Business+analyst;Contribuer+open+source" alt="Goals Typing SVG" />
 </div>
 
 <br>
